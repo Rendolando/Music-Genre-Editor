@@ -1,0 +1,22 @@
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Music Genre Editor</title>
+</head>
+<body>
+  <h2>Upload Lagu</h2>
+  <input type="file" accept="audio/*" />
+  
+  <h3>Pilih Genre:</h3>
+  <select>
+    <option>Rock</option>
+    <option>Jazz</option>
+    <option>EDM</option>
+  </select>
+  
+  <button>Convert Lagu</button>
+</body>
+</html>
+```
